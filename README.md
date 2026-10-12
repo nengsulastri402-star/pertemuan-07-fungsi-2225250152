@@ -1,8 +1,8 @@
 # Pertemuan 07: Fungsi Python
 
-- **Nama:** [Nama Lengkap Anda]
-- **NIM:** [NIM Anda]
-- **Kelas:** [Kelas Anda]
+- **Nama:** SULASTRI
+- **NIM:** 2225250152
+- **Kelas:** B
 
 ## Tujuan
 Menggunakan fungsi, parameter, return value, dan scope untuk membuat program modular serta mengunggahnya ke GitHub.
